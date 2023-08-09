@@ -10,17 +10,17 @@ Device:
    built in DAC which is required in this project. This project uses the ADC and
    the DAC.
 
-Connections (applied to the STM32 NUCLEO-F746ZG only):
+Connections (applied to the STM32 NUCLEO-F746ZG only): /newline
   NOTE: if separate power supply is used then ensure that the both GND are connected together,
   this ensures that the GND referance is the same.
 
   LED: 
-    +ve to a 100 ohm resistor, which is connected to PA5
-    -ve to GND
+    +ve to a 100 ohm resistor, which is connected to PA5 /newline
+    -ve to GND /newline
     /newline
   Potentiometer: 
-    +ve to 3.3V
-    -ve to GND
-    output to PA0
+    +ve to 3.3V /newline
+    -ve to GND /newline
+    output to PA0 
     
  
