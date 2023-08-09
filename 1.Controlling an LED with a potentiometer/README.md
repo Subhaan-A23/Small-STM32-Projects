@@ -17,7 +17,7 @@ Connections (applied to the STM32 NUCLEO-F746ZG only):
   LED: 
     +ve to a 100 ohm resistor, which is connected to PA5
     -ve to GND
-
+    /newline
   Potentiometer: 
     +ve to 3.3V
     -ve to GND
