@@ -9,5 +9,18 @@ Device:
    STM32s but the pin configurations may be different. Not all STM32s contain a 
    built in DAC which is required in this project. This project uses the ADC and
    the DAC.
-   
+
+Connections (applied to the STM32 NUCLEO-F746ZG only):
+  NOTE: if separate power supply is used then ensure that the both GND are connected together,
+  this ensures that the GND referance is the same.
+
+  LED: 
+    +ve to PA5
+    -ve to GND
+
+  Potentiometer: 
+    +ve to 3.3V
+    -ve to GND
+    output to PA0
+    
  
