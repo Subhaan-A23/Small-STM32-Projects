@@ -1,7 +1,7 @@
 1.Controlling an LED with a potentiometer<br>
 
 Description:<br>
-  -An LED is connected the STM32 DAC and the potentiometer is connected to the STM32 ADC.
+  -An LED is connected the STM32 DAC and the potentiometer is connected to the STM32 ADC. 
    As the potentiometer is turned, the brightness of the LED is changed.
 
 Device:<br>
