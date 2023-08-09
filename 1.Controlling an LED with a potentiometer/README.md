@@ -15,8 +15,8 @@ Connections (applied to the STM32 NUCLEO-F746ZG only): <br>
   this ensures that the GND referance is the same.
 
   LED: 
-&nbsp  +ve to a 100 ohm resistor, which is connected to PA5 <br>
-&nbsp  -ve to GND <br>
+   +ve to a 100 ohm resistor, which is connected to PA5 <br> &nbsp
+   -ve to GND <br>
     <br>
   Potentiometer: 
     +ve to 3.3V <br>
